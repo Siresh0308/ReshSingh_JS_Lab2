@@ -38,7 +38,7 @@ let questions = [
     ),
     new Question(
         "Whats the National bird of India?",
-        ["Piegon", "Peocock", "Koyal", "Crow"],
+        ["Piegon", "Peacock", "Koyal", "Crow"],
         "Peocock"
     ),
     new Question(
